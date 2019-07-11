@@ -1,0 +1,22 @@
+{
+  "name": "Cache",
+  "version": "0.1.0",
+  "summary": "A short description of Cache.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/randomorb/Cache",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "randomorb": "brandonbr@zillowgroup.com"
+  },
+  "source": {
+    "git": "https://github.com/randomorb/Cache.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Cache/Classes/**/*"
+}
